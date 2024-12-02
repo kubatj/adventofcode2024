@@ -52,7 +52,7 @@ async function solutionB() {
     }
   }
 
-  console.log("Total similiraty score --> ", total);
+  console.log("Total similarity score --> ", total);
 }
 
 await solutionB();
