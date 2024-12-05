@@ -142,7 +142,7 @@ async function solutionPart1() {
           }
         }
 
-        // check botto right diago
+        // check bottom right diago
         if (c + 3 < rLimit && l + 3 < bLimit) {
           if (
             matrix[l][c] +
